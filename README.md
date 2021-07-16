@@ -1,2 +1,2 @@
-# eyede
+# Eyede
 Online Editor/IDE
